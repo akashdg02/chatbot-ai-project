@@ -40,7 +40,7 @@ YourName_ChatUI/
 │   └── style.css       # Custom styling and variables
 ├── js/
 │   └── chat.js         # Logic, animations, and interactivity
-├── screenshots/        # UI testing screenshots (Desktop, Tablet, Mobile)
+├── screenshots/        # UI testing screenshots (Desktop, Mobile)
 └── README.md           # Project documentation
 \`\`\`
 
